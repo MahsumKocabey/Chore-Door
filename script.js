@@ -1,7 +1,9 @@
+// Creating each door 
 let doorImage1 = document.getElementById("door1");
 let doorImage2 = document.getElementById("door2");
 let doorImage3 = document.getElementById("door3");
 
+//Creating the paths, such as the bot the beach and the pace door cards.
 const botDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/robot.svg";
 const beachDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/beach.svg";
 const spaceDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/space.svg";
